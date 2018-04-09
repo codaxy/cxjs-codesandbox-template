@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+
+.app {
+    header {
+        display: flex;
+        align-items: center;
+        padding: 1rem 1.5rem;
+
+        .cxb-link {
+            padding: 14px 10px;
+        }
+    }
+
+    .logo {
+        height: 64px;
+    }
+
+    main {
+        padding: 0 1.5rem;
+    }
+}

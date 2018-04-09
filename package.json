@@ -1,0 +1,13 @@
+{
+  "name": "cxjs-codesandbox-template",
+  "version": "0.0.1",
+  "description": "CxJS Template for CodeSandbox",
+  "main": "app/index.js",
+  "scripts": {},
+  "dependencies": {
+    "cx": "18.4.0",
+    "cx-react": "17.10.0",    
+    "react": "16.3.0",
+    "react-dom": "16.3.0"
+  }  
+}
