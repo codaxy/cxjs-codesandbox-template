@@ -4,6 +4,7 @@ import { Timing, Debug } from "cx/util";
 import Routes from "./routes";
 
 //css
+import "cx/dist/widgets.css";
 import "./index.scss";
 
 //store
