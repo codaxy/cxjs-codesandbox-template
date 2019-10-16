@@ -5,7 +5,13 @@ import Routes from "./routes";
 
 //import css
 import "cx/dist/widgets.css";
+
+//uncomment two lines below if you use cx/charts
+//import "cx/dist/svg.css";
+//import "cx/dist/charts.css";
+
 import "./index.scss";
+
 
 //store will hold the application state
 const store = new Store();

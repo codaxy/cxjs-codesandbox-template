@@ -8,13 +8,14 @@ module.exports = {
                 targets: {
                     chrome: 50,
                     ie: 11,
-                    ff: 30,
+                    firefox: 50,
                     edge: 12,
                     safari: 9
                 },
                 modules: false,
                 loose: true,
                 useBuiltIns: 'usage',
+                corejs: 3,
                 cx: {
                     imports: {
                         useSrc: true
